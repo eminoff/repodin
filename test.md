@@ -1,4 +1,6 @@
 **Bold message**
+*bold*
+***message***
 
 This is test [link](http://eminov.info).
 
@@ -7,9 +9,13 @@ This is test [link](http://eminov.info).
 * list2
 * list3
  
+###Numbers
+1. Number A
+2. Number B
+3. Number C
 
 
-## Tertiary heading
+### Tertiary heading
 - [Asif Eminov](http://facebook.com/dr.eminov)
 - [My website](http://eminov.info)
 
