@@ -4,4 +4,4 @@ title: Asif Eminov
 permalink: http://eminov.info
 ----
 
-This is test [link].
+This is test [link](http://eminov.info).
