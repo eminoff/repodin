@@ -14,5 +14,5 @@ This is test [link](http://eminov.info).
 
 
 ## Tertiary heading
-[Asif Eminov](http://facebook.com/dr.eminov)
-[My website](http://eminov.info)
+- [Asif Eminov](http://facebook.com/dr.eminov)
+- [My website](http://eminov.info)
