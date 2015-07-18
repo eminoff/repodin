@@ -1,6 +1,7 @@
-**Bold message**
-*bold*
-***message***
+
+- **Bold message**
+- *italic*
+- ***bold italic***
 
 This is test [link](http://eminov.info).
 
