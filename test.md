@@ -1,8 +1,4 @@
----
-layout: testpage
-title: Asif Eminov
-permalink: http://eminov.info
----
+**Bold message**
 
 This is test [link](http://eminov.info).
 
@@ -16,3 +12,10 @@ This is test [link](http://eminov.info).
 ## Tertiary heading
 - [Asif Eminov](http://facebook.com/dr.eminov)
 - [My website](http://eminov.info)
+
+
+---
+layout: test_table
+title: Asif Eminov
+permalink: http://eminov.info
+---
